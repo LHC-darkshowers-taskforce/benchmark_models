@@ -1,4 +1,4 @@
-# benchmark_models
+# Benchmark models
 
 ## Running CMS benchmark cards
 
