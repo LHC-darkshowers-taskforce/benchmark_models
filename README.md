@@ -33,7 +33,7 @@ The code ```emjHelper.py``` takes the following arguments:
 In order to produce your own card use commands like:
 
 ```
-python emjHelper.py --mMed 1000.0 --mDark 10 --kappa 0.36 --type down --mode aligned --channel t```
+python emjHelper.py --mMed 1000.0 --mDark 10 --kappa 0.36 --type down --mode aligned --channel t
 ```
 
 ### Flavour-democratic semi-visible jets
